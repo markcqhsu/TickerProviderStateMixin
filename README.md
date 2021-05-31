@@ -1,17 +1,11 @@
-# flutter_478
+# 478呼吸法的动画演示 & 多个动画控制器的示范
 
-A new Flutter project.
+## 課程影片：
+https://www.bilibili.com/video/BV1KQ4y1P7Xf
+https://www.bilibili.com/video/BV1zV411C73b/
 
-## Getting Started
+## 課程內容：
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# TickerProviderStateMixin
+- async await 
+- TickerProviderStateMixin
+- Tween, Curve, Interval
